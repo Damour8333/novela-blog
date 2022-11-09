@@ -1,6 +1,6 @@
 ---
 title: jean-François Damour
-bio: je suisz né  a Toulon
+bio: je suis né  a Toulon
 avatar: "/images/favicon.svg"
 social:
 - title: ''
