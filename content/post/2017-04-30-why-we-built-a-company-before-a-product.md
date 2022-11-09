@@ -1,5 +1,5 @@
 ---
-title: Why we built a y befora product and why it worked
+title: fuck fuck the world!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 date: 2017-04-30
 hero: "/images/hero-6.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
@@ -7,7 +7,6 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 timeToRead: 3
 authors:
 - Thiago Costa
-draft: true
 
 ---
 Bonjour le monde! Ceci est un article de démonstration `hugo-theme-novela`. Novela est conçue par l'équipe de [Narative](https://narative.co) et conçue pour tous ceux qui aiment le Web.
