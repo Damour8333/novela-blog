@@ -8,6 +8,5 @@ social:
 - title: ''
   url: ''
 featured: true
-draft: true
 
 ---
