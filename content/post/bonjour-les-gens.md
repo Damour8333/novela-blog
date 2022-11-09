@@ -1,11 +1,10 @@
 ---
-timeToRead: 0
+timeToRead: 15
 authors: []
 title: 'bonjour les gens '
 excerpt: 'toute la nuit tue ses devant moi '
 date: 
 hero: ''
-draft: true
 
 ---
 **_Mme Bovary. Mœurs de province_** , couramment abrégé en **_Madame Bovary_** , est un[ roman](https://fr.wikipedia.org/wiki/Roman_(litt%C3%A9rature) "Roman (littérature)") de[ Gustave Flaubert](https://fr.wikipedia.org/wiki/Gustave_Flaubert "Gustave Flaubert") paru en[ 1857](https://fr.wikipedia.org/wiki/1857_en_litt%C3%A9rature "1857 en littérature") chez[ Michel Lévy frères](https://fr.wikipedia.org/wiki/Michel_L%C3%A9vy_fr%C3%A8res "Michel Lévy frères") , après une préparation en[ 1856](https://fr.wikipedia.org/wiki/1856 "1856") dans la [_Revue de Paris_](https://fr.wikipedia.org/wiki/Revue_de_Paris "Revue de Paris") . Il s'agit d'une œuvre majeure de la[ littérature française](https://fr.wikipedia.org/wiki/Litt%C3%A9rature_fran%C3%A7aise "Littérature française") . L'histoire est celle de l'épouse d'un médecin de province, Emma Bovary, qui lie des relations adultères et vit au-dessus de ses moyens, permet ainsi d'éviter l'[ ennui](https://fr.wikipedia.org/wiki/Ennui "Ennui") , la banalité et la médiocrité de la vie provinciale.
