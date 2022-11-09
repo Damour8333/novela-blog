@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/bonjour-le-monde.md
 - content/post/bonjour-les-gens.md
